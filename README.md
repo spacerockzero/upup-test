@@ -1,2 +1,2 @@
 # upup-test
-Testing UpUp service worker lib
+Testing UpUp service worker lib inside express.js
