@@ -1,0 +1,22 @@
+{
+  "name": "upup-tester",
+  "description": "",
+  "main": "",
+  "authors": [
+    "spacerockzero <janderson@familysearch.org>"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "upup": "^0.2.0",
+    "bootstrap": "^3.3.6"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "name": "upup",
+  "homepage": "https://www.talater.com/upup/",
+  "authors": [
+    "Tal Ater <tal@talater.com> (https://www.talater.com/)"
+  ],
+  "description": "Control the content users see, even when they're offline",
+  "main": [
+    "dist/upup.min.js",
+    "dist/upup.sw.min.js"
+  ],
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "offline",
+    "offlinefirst",
+    "cache",
+    "serviceworker"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/TalAter/UpUp.git"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "Gruntfile.js",
+    "package.json",
+    "demo"
+  ],
+  "version": "0.2.0",
+  "_release": "0.2.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.2.0",
+    "commit": "77063c63013db633d1ae7a6cb50fc635035bed03"
+  },
+  "_source": "git://github.com/TalAter/UpUp.git",
+  "_target": "^0.2.0",
+  "_originalSource": "upup"
+}
